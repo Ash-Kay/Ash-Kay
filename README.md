@@ -8,8 +8,8 @@
 
 - 💻 Creating SuperApp @ [Gojek](https://www.gojek.io/)
 - 👨‍💻 Visit my website [here](https://ashishkumars.com/)
-- ✈️ Hire [me](mailto:hello@ashishkumars@gmail.com) for remote work :)
-- Let's connect on [twitter](https://twitter.com/AshKay29).
+- ✈️ Mail at [hello@ashishkumars.com](mailto:hello@ashishkumars.com) for remote work or Collab :)
+- Let's connect on [Twitter](https://twitter.com/AshKay29).
 
 ## Tech Stack 🛠 &nbsp;
 
