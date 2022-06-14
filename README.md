@@ -1,4 +1,4 @@
-### Hello World <img src="Hi.gif" width="29px">! I'm
+### Hello World <img src="Hi.gif" width="29px" height="29px">! I'm
 
 # [<p style="font-size:50px;">Ashish Kumar<p>](https://ashishkumars.com/)
 
